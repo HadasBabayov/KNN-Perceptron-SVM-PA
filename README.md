@@ -7,7 +7,7 @@ There is 4 algorithms:
 - SVM
 - PA 
 
-For each algorithm I implemented train method and test method.
+For each algorithm I implemented train method and test method.<br/>
 Finally, I choose hyper-parameters by using K-fold method, which brought me high success rates.
 
 
